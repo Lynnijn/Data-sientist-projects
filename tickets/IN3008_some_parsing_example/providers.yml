@@ -1,0 +1,17 @@
+---
+bsrn:
+    name: Baseline Surface Radiation Network (BSRN)
+    institution: Global Energy and Water Exchange (GEWEX)
+    description: BSRN is a project of the Radiation Panel (now the Data and Assessment Panel) from the Global Energy and Water Cycle Experiment (GEWEX) under the umbrella of the World Climate Research Programme (WCRP). It consists of a network of stations where solar and atmospheric radiation is measured with instruments of the highest available accuracy and with high time resolution (1 to 3 minutes).
+    references:
+    - https://bsrn.awi.de/
+    domain: solar
+    classification: public
+    device_type: pyranometer
+    temporal_aggregation_method: mean
+    temporal_aggregation_period: time_granularity
+    temporal_aggregation_convention: unknown
+
+    
+
+    

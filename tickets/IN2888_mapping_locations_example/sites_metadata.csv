@@ -1,0 +1,315 @@
+station_name,country,continent,latitude,longitude,altitude,provider
+izaña,Spain,Europe,28.309,-16.499,2373.0,bsrn
+sonnblick,Austria,Europe,47.054,12.958,3109.0,bsrn
+syowa,Antartic,Antartic,-69.005,39.589,18.0,bsrn
+boulder,United States of America,North America,40.125,-105.237,1689.0,bsrn
+desert_rock,United States of America,North America,36.626,-116.018,1007.0,bsrn
+de_aar,South Africa,Africa,-30.667,23.993,1287.0,bsrn
+rock_springs,United States of America,North America,40.72,-77.933,376.0,bsrn
+bondville,United States of America,North America,40.067,-88.367,213.0,bsrn
+cocos_island,Australia,Oceania,-12.193,96.835,6.0,bsrn
+granite_island,United States of America,North America,46.721,-87.411,208.0,bsrn
+camborne,United Kingdom,Europe,50.217,-5.317,88.0,bsrn
+tamanrasset,Algeria,Africa,22.79,5.529,1385.0,bsrn
+langley_research_center,United States of America,North America,37.104,-76.387,3.0,bsrn
+sioux_falls,United States of America,North America,43.73,-96.62,473.0,bsrn
+southern_great_plains,United States of America,North America,36.605,-97.485,318.0,bsrn
+billings,United States of America,North America,36.605,-97.516,317.0,bsrn
+gobabeb,Namibia,Africa,-23.561,15.042,407.0,bsrn
+observatory_of_huancayo,Peru,South America,-12.05,-75.32,3314.0,bsrn
+goodwin_creek,United States of America,North America,34.255,-89.873,98.0,bsrn
+carpentras,France,Europe,44.083,5.059,100.0,bsrn
+budapest_lorinc,Hungary,Europe,47.429,19.182,139.0,bsrn
+magurele_mars,Romania,Europe,44.344,26.012,110.0,bsrn
+cabauw,Netherlands,Europe,51.971,4.927,0.0,bsrn
+fort_peck,United States of America,North America,48.317,-105.1,634.0,bsrn
+lindenberg,Germany,Europe,52.21,14.122,125.0,bsrn
+cener,Spain,Europe,42.816,-1.601,471.0,bsrn
+eastern_north_atlantic,Portugal,Europe,39.091,-28.029,15.0,bsrn
+abashiri,Japan,Asia,44.018,144.28,38.0,bsrn
+payerne,Switzerland,Europe,46.815,6.944,491.0,bsrn
+minamitorishima,Japan,Asia,24.288,153.983,7.0,bsrn
+lerwick,United Kingdom,Europe,60.139,-1.185,80.0,bsrn
+toravere,Estonia,Europe,58.254,26.462,70.0,bsrn
+tateno,Japan,Asia,36.058,140.126,25.0,bsrn
+brasilia,Brazil,South America,-15.601,-47.713,1023.0,bsrn
+ishigakijima,Japan,Asia,24.337,124.164,6.0,bsrn
+bermuda,Bermuda,North America,32.301,-64.766,8.0,bsrn
+fukuoka,Japan,Asia,33.582,130.376,3.0,bsrn
+petrolina,Brazil,South America,-9.068,-40.319,387.0,bsrn
+paramaribo,Suriname,South America,5.806,-55.215,4.0,bsrn
+arcen,Germany,Europe,51.497,6.196,20.0,knmi
+berkhout,Netherlands,Europe,52.643,4.979,-2.0,knmi
+bonaire,Netherlands,Europe,12.13,-68.276,7.0,knmi
+de_bilt,Netherlands,Europe,52.099,5.18,2.0,knmi
+de_kooy_waarneemterrein,Netherlands,Europe,52.927,4.781,1.0,knmi
+deelen_locatie_a,Netherlands,Europe,52.055,5.872,48.0,knmi
+eelde_locatie_23t,Netherlands,Europe,53.124,6.585,5.0,knmi
+eindhoven_locatie_a,Netherlands,Europe,51.45,5.377,23.0,knmi
+ell,Netherlands,Europe,51.197,5.762,30.0,knmi
+gilze_rijen_locatie_a,Netherlands,Europe,51.565,4.935,15.0,knmi
+heino,Netherlands,Europe,52.434,6.259,4.0,knmi
+herwijnen,Netherlands,Europe,51.858,5.145,1.0,knmi
+hoek_van_holland,Netherlands,Europe,51.991,4.122,12.0,knmi
+hoogeveen,Netherlands,Europe,52.749,6.573,16.0,knmi
+hoorn_terschelling,Netherlands,Europe,53.391,5.346,1.0,knmi
+hupsel,Netherlands,Europe,52.068,6.657,29.0,knmi
+lauwersoog,Netherlands,Europe,53.412,6.199,3.0,knmi
+leeuwarden_locatie_a,Netherlands,Europe,53.223,5.752,1.0,knmi
+lelystad_locatie_23t,Netherlands,Europe,52.457,5.52,-4.0,knmi
+maastricht_locatie_22t,Netherlands,Europe,50.905,5.762,114.0,knmi
+marknesse,Netherlands,Europe,52.702,5.888,-3.0,knmi
+nieuw_beerta,Netherlands,Europe,53.194,7.149,0.0,knmi
+rotterdam_locatie_24t,Netherlands,Europe,51.961,4.447,-4.0,knmi
+saba,Netherlands,Europe,17.646,-63.221,31.0,knmi
+schiphol_locatie_18ct,Netherlands,Europe,52.317,4.79,-3.0,knmi
+st_eustatius,Netherlands,Europe,17.495,-62.983,36.0,knmi
+stavoren,Netherlands,Europe,52.897,5.383,-1.0,knmi
+twenthe_locatie_a,Netherlands,Europe,52.273,6.891,35.0,knmi
+vlissingen_locatie_a,Netherlands,Europe,51.441,3.596,8.0,knmi
+volkel_locatie_a,Netherlands,Europe,51.658,5.707,22.0,knmi
+voorschoten_stralingsmeter,Netherlands,Europe,52.14,4.436,-1.0,knmi
+westdorpe,Netherlands,Europe,51.225,3.861,2.0,knmi
+wijk_aan_zee,Netherlands,Europe,52.505,4.603,8.0,knmi
+wilhelminadorp,Netherlands,Europe,51.53,3.894,14.0,knmi
+arkona,Germany,Europe,54.679,13.434,42.0,dwd
+braunschweig,Germany,Europe,52.292,10.446,81.0,dwd
+bremen,Germany,Europe,53.045,8.798,4.0,dwd
+chemnitz,Germany,Europe,50.791,12.872,416.0,dwd
+dresden_klotzsche,Germany,Europe,51.128,13.754,228.0,dwd
+fichtelberg,Germany,Europe,50.428,12.954,1213.0,dwd
+fürstenzell,Germany,Europe,48.545,13.353,476.0,dwd
+görlitz,Germany,Europe,51.162,14.951,239.0,dwd
+hamburg_fuhlsbüttel,Germany,Europe,53.633,9.988,11.0,dwd
+hohenpeißenberg,Germany,Europe,47.801,11.011,977.0,dwd
+konstanz,Germany,Europe,47.695,9.131,428.0,dwd
+lautertal_oberlauter,Germany,Europe,50.307,10.968,344.0,dwd
+leinefelde,Germany,Europe,51.393,10.312,356.0,dwd
+mannheim,Germany,Europe,49.506,8.558,98.0,dwd
+norderney,Germany,Europe,53.712,7.152,12.0,dwd
+nürnberg,Germany,Europe,49.503,11.055,314.0,dwd
+potsdam,Germany,Europe,52.381,13.062,82.0,dwd
+rostock_warnemünde,Germany,Europe,54.18,12.081,5.0,dwd
+saarbrücken_ensheim,Germany,Europe,49.213,7.108,320.0,dwd
+sankt_peter_ording,Germany,Europe,54.328,8.603,5.0,dwd
+schleswig,Germany,Europe,54.528,9.549,43.0,dwd
+seehausen,Germany,Europe,52.891,11.73,21.0,dwd
+stuttgart_schnarrenberg,Germany,Europe,48.828,9.2,314.0,dwd
+trier_petrisberg,Germany,Europe,49.748,6.658,265.0,dwd
+waldmünchen,Germany,Europe,49.391,12.684,499.0,dwd
+weihenstephan_dürnast,Germany,Europe,48.402,11.695,477.0,dwd
+würzburg,Germany,Europe,49.77,9.958,268.0,dwd
+zinnwald_georgenfeld,Germany,Europe,50.731,13.752,877.0,dwd
+zugspitze,Germany,Europe,47.421,10.985,2965.0,dwd
+abbeville,France,Europe,50.133,1.833,70.0,wrdc
+aberdeen_dyce_arpt,United Kingdom,Europe,57.2,-2.217,69.0,wrdc
+aberporth,United Kingdom,Europe,52.133,-4.567,134.0,wrdc
+agen,France,Europe,44.167,0.583,58.0,wrdc
+aix_en_provence,France,Europe,43.517,5.417,173.0,wrdc
+ajaccio,France,Europe,41.917,8.783,5.0,wrdc
+albacete,Spain,Europe,39.0,-1.867,674.0,wrdc
+albi,France,Europe,43.9,2.1,172.0,wrdc
+alencon,France,Europe,48.433,0.1,143.0,wrdc
+alicante_arpt,Spain,Europe,38.283,-0.55,31.0,wrdc
+almeria_arpt,Spain,Europe,36.85,-2.383,20.0,wrdc
+amberieu,France,Europe,45.967,5.317,250.0,wrdc
+arenosillo,Spain,Europe,37.1,-6.733,45.0,wrdc
+aubenas,France,Europe,44.533,4.367,280.0,wrdc
+auch,France,Europe,43.683,0.6,121.0,wrdc
+aurillac,France,Europe,44.883,2.417,639.0,wrdc
+auxerre_perrigny,France,Europe,47.817,3.533,152.0,wrdc
+aviemore,United Kingdom,Europe,57.2,-3.833,240.0,wrdc
+badajoz,Spain,Europe,38.883,-7.017,260.0,wrdc
+barcelona,Spain,Europe,41.383,2.2,25.0,wrdc
+barcelona_arpt,Spain,Europe,41.3,2.05,10.0,wrdc
+basel,Switzerland,Europe,47.55,7.583,316.0,wrdc
+bastia,France,Europe,42.55,9.483,10.0,wrdc
+beaucouze,France,Europe,47.467,-0.6,50.0,wrdc
+beauvais_tille,France,Europe,49.433,2.117,89.0,wrdc
+belfast_aldergrove_arpt,United Kingdom,Europe,54.667,-6.217,68.0,wrdc
+belmullet,Ireland,Europe,54.233,-10.0,10.0,wrdc
+bergerac,France,Europe,44.817,0.5,49.0,wrdc
+besancon,France,Europe,47.233,5.983,307.0,wrdc
+biarritz_anglet,France,Europe,43.467,-1.533,71.0,wrdc
+bilbao_sondica,Spain,Europe,43.3,-2.9,41.0,wrdc
+biscarosse,France,Europe,44.433,-1.25,33.0,wrdc
+blois,France,Europe,47.667,1.217,121.0,wrdc
+bordeaux_merignac,France,Europe,44.817,-0.683,47.0,wrdc
+borlange,Sweden,Europe,60.483,15.433,164.0,wrdc
+boulmer,United Kingdom,Europe,55.417,-1.6,22.0,wrdc
+bourg_st_maurice,France,Europe,45.6,6.75,865.0,wrdc
+bourges,France,Europe,47.067,2.35,161.0,wrdc
+braganca,Portugal,Europe,41.8,-6.733,691.0,wrdc
+bregenz,Austria,Europe,47.5,9.75,424.0,wrdc
+brest_guipavas,France,Europe,48.433,-4.4,94.0,wrdc
+brive,France,Europe,45.133,1.467,112.0,wrdc
+caceres,Spain,Europe,39.467,-6.333,405.0,wrdc
+cadiz,Spain,Europe,36.5,-6.267,90.0,wrdc
+caen_carpiquet,France,Europe,49.167,-0.45,67.0,wrdc
+carcassonne,France,Europe,43.2,2.283,128.0,wrdc
+chambery_aix,France,Europe,45.633,5.867,235.0,wrdc
+charleville_mezieres,France,Europe,49.767,4.633,149.0,wrdc
+chartres,France,Europe,48.45,1.5,155.0,wrdc
+chateaudun,France,Europe,48.05,1.367,126.0,wrdc
+chateauroux_deols,France,Europe,46.867,1.733,158.0,wrdc
+chatillon_seine,France,Europe,47.833,4.567,262.0,wrdc
+cholet,France,Europe,47.067,-0.867,134.0,wrdc
+ciudad_real,Spain,Europe,38.983,-3.917,628.0,wrdc
+clermont_ferrand,France,Europe,45.783,3.133,331.0,wrdc
+clones,Ireland,Europe,54.183,-7.233,86.0,wrdc
+cognac,France,Europe,45.65,-0.3,30.0,wrdc
+coimbra_arpt,Portugal,Europe,40.15,-8.467,170.0,wrdc
+colmar,France,Europe,47.917,7.417,209.0,wrdc
+cordoba_arpt,Spain,Europe,37.833,-4.85,91.0,wrdc
+corvatsch,Switzerland,Europe,46.417,9.817,3315.0,wrdc
+creil,France,Europe,49.25,2.517,88.0,wrdc
+davos,Switzerland,Europe,46.817,9.85,1590.0,wrdc
+dax,France,Europe,43.683,-1.067,31.0,wrdc
+dijon,France,Europe,47.267,5.083,219.0,wrdc
+dinard,France,Europe,48.583,-2.067,65.0,wrdc
+dublin_arpt,Ireland,Europe,53.433,-6.233,82.0,wrdc
+dunstaffnage,United Kingdom,Europe,56.567,-5.433,3.0,wrdc
+edinburgh,United Kingdom,Europe,55.933,-3.35,57.0,wrdc
+embrun,France,Europe,44.567,6.5,871.0,wrdc
+eskdalemuir,United Kingdom,Europe,55.317,-3.2,242.0,wrdc
+evora,Portugal,Europe,38.533,-7.883,246.0,wrdc
+evreux_huest,France,Europe,49.017,1.217,138.0,wrdc
+faro_arpt,Portugal,Europe,37.017,-7.967,8.0,wrdc
+geneve,Switzerland,Europe,46.25,6.133,420.0,wrdc
+girona_arpt,Spain,Europe,41.9,2.75,127.0,wrdc
+gonneville,France,Europe,49.65,-1.45,134.0,wrdc
+goteborg,Sweden,Europe,57.7,12.0,30.0,wrdc
+gourdon,France,Europe,44.733,1.383,260.0,wrdc
+granada_armilla,Spain,Europe,37.133,-3.633,687.0,wrdc
+granada_arpt,Spain,Europe,37.183,-3.783,573.0,wrdc
+graz_univ_,Austria,Europe,47.083,15.45,366.0,wrdc
+grenoble_st_geoirs,France,Europe,45.35,5.3,384.0,wrdc
+grossenzersdorf,Austria,Europe,48.2,16.567,157.0,wrdc
+gueret_st_laurent,France,Europe,46.167,1.95,365.0,wrdc
+gurteen,Ireland,Europe,53.033,-8.083,76.0,wrdc
+hoburg,Sweden,Europe,56.917,18.15,34.0,wrdc
+hondarribia_arpt,France,Europe,43.35,-1.783,8.0,wrdc
+huelva,Spain,Europe,37.283,-6.917,19.0,wrdc
+ibiza,Spain,Europe,38.867,1.367,10.0,wrdc
+ile_du_levant,France,Europe,43.017,6.467,118.0,wrdc
+innsbruck_arpt,Austria,Europe,47.25,11.35,579.0,wrdc
+jerez,Spain,Europe,36.733,-6.067,35.0,wrdc
+johnstown_castle,Ireland,Europe,52.3,-6.5,49.0,wrdc
+jungfraujoch,Switzerland,Europe,46.55,7.983,3580.0,wrdc
+karlstad,Sweden,Europe,59.367,13.467,46.0,wrdc
+kiruna,Sweden,Europe,67.85,20.417,424.0,wrdc
+klagenfurt,Austria,Europe,46.65,14.333,447.0,wrdc
+la_coruna,Spain,Europe,43.35,-8.417,67.0,wrdc
+la_coruna_arpt,Spain,Europe,43.3,-8.367,97.0,wrdc
+la_dole,Switzerland,Europe,46.433,6.1,1670.0,wrdc
+la_pesse,France,Europe,46.3,5.833,1133.0,wrdc
+la_roche_sur_yon,France,Europe,46.7,-1.367,90.0,wrdc
+la_rochelle_arpt,France,Europe,46.167,-1.183,20.0,wrdc
+langres,France,Europe,47.833,5.333,467.0,wrdc
+laval,France,Europe,48.033,-0.733,96.0,wrdc
+le_luc,France,Europe,43.367,6.383,80.0,wrdc
+le_mans,France,Europe,47.933,0.183,48.0,wrdc
+le_puy_loudes,France,Europe,45.067,3.75,833.0,wrdc
+le_touquet,France,Europe,50.517,1.617,5.0,wrdc
+leon_arpt,Spain,Europe,42.583,-5.65,914.0,wrdc
+lille_lesquin,France,Europe,50.567,3.083,47.0,wrdc
+limoges_bellegarde,France,Europe,45.85,1.167,402.0,wrdc
+lleida,Spain,Europe,41.617,0.6,201.0,wrdc
+locarno_monti,Switzerland,Europe,46.167,8.783,366.0,wrdc
+logrono_agoncillo,Spain,Europe,42.45,-2.333,353.0,wrdc
+lorient_lannbihoue,France,Europe,47.75,-3.433,45.0,wrdc
+lulea,Sweden,Europe,65.55,22.117,32.0,wrdc
+lund,Sweden,Europe,55.717,13.217,85.0,wrdc
+lus_la_croixhaute,France,Europe,44.667,5.7,1059.0,wrdc
+luxeuil,France,Europe,47.783,6.35,271.0,wrdc
+lyon_bron,France,Europe,45.717,4.933,197.0,wrdc
+macon,France,Europe,46.283,4.783,216.0,wrdc
+madrid_barajas_arpt,Spain,Europe,40.45,-3.55,582.0,wrdc
+madrid_univ_,Spain,Europe,40.45,-3.733,680.0,wrdc
+malaga,Spain,Europe,36.717,-4.483,61.0,wrdc
+malin_head_c_,Ireland,Europe,55.367,-7.333,25.0,wrdc
+marignane,France,Europe,43.433,5.217,5.0,wrdc
+melun,France,Europe,48.6,2.667,91.0,wrdc
+mende,France,Europe,44.533,3.45,932.0,wrdc
+metz_nancy_lorraine_arpt,France,Europe,48.983,6.25,260.0,wrdc
+meythet,France,Europe,45.917,6.1,458.0,wrdc
+millau,France,Europe,44.117,3.017,714.0,wrdc
+mont_de_marsan,France,Europe,43.917,-0.5,62.0,wrdc
+montauban,France,Europe,44.017,1.367,107.0,wrdc
+montelimar,France,Europe,44.567,4.717,73.0,wrdc
+montpellier,France,Europe,43.567,3.95,2.0,wrdc
+mt_st_vincent,France,Europe,46.617,4.467,602.0,wrdc
+murcia,Spain,Europe,38.0,-1.167,69.0,wrdc
+nancy_essey,France,Europe,48.683,6.217,212.0,wrdc
+nantes_bouguenais,France,Europe,47.15,-1.6,26.0,wrdc
+nevers_marzy,France,Europe,46.983,3.1,175.0,wrdc
+nice,France,Europe,43.633,7.2,2.0,wrdc
+nimes_courbessac,France,Europe,43.85,4.4,59.0,wrdc
+niort,France,Europe,46.3,-0.4,57.0,wrdc
+norrkoping,Sweden,Europe,58.583,16.15,43.0,wrdc
+odiham,United Kingdom,Europe,51.233,-0.95,124.0,wrdc
+orleans,France,Europe,47.983,1.767,125.0,wrdc
+ostersund,Sweden,Europe,63.2,14.483,374.0,wrdc
+oviedo,Spain,Europe,43.35,-5.867,335.0,wrdc
+palma_demallorca,Spain,Europe,39.55,2.617,10.0,wrdc
+palma_demallorca_arpt,Spain,Europe,39.567,2.75,10.0,wrdc
+paris_orly,France,Europe,48.717,2.383,89.0,wrdc
+paris_montsouris,France,Europe,48.817,2.333,75.0,wrdc
+pau_uzein,France,Europe,43.383,-0.4,183.0,wrdc
+perpignan,France,Europe,42.733,2.867,42.0,wrdc
+poitiers_biard,France,Europe,46.583,0.3,123.0,wrdc
+ponferrada,Spain,Europe,42.567,-6.6,550.0,wrdc
+quimper,France,Europe,47.967,-4.167,90.0,wrdc
+reims_prunay,France,Europe,49.2,4.15,95.0,wrdc
+rennes_st_jacques,France,Europe,48.067,-1.733,36.0,wrdc
+reus_arpt,Spain,Europe,41.15,-1.167,73.0,wrdc
+rodez_aveyron,France,Europe,44.4,2.467,578.0,wrdc
+roissy_en_france,France,Europe,49.0,2.533,108.0,wrdc
+roquetas_tortosa,Spain,Europe,40.817,0.5,44.0,wrdc
+saentis,Switzerland,Europe,47.25,9.35,2490.0,wrdc
+salamanca,Spain,Europe,40.95,-5.917,803.0,wrdc
+salzburg_freisaal,Austria,Europe,47.783,13.05,420.0,wrdc
+san_javier_arpt,Spain,Europe,37.783,-0.8,2.0,wrdc
+san_sebastian,Spain,Europe,43.317,-2.05,259.0,wrdc
+santander,Spain,Europe,43.483,-3.8,52.0,wrdc
+santiago_arpt,Spain,Europe,42.9,-8.417,370.0,wrdc
+soria,Spain,Europe,41.6,-2.5,1090.0,wrdc
+st_auban,France,Europe,44.05,5.983,461.0,wrdc
+st_brieuc,France,Europe,48.533,-2.85,135.0,wrdc
+st_dizier,France,Europe,48.617,4.9,139.0,wrdc
+st_etienne_boutheon,France,Europe,45.517,4.283,400.0,wrdc
+st_girons,France,Europe,43.0,1.1,414.0,wrdc
+st_quentin,France,Europe,49.817,3.2,98.0,wrdc
+stockholm,Sweden,Europe,59.35,18.067,30.0,wrdc
+storlien__visjovalen,Sweden,Europe,63.3,12.117,646.0,wrdc
+strasbourg_entzheim,France,Europe,48.533,7.633,150.0,wrdc
+svenska_hogarna,Sweden,Europe,59.45,19.5,10.0,wrdc
+tarbes_ossun,France,Europe,43.183,0.0,360.0,wrdc
+tarfala,Sweden,Europe,67.917,18.6,1144.0,wrdc
+tavaux,France,Europe,47.033,5.417,195.0,wrdc
+teruel,Spain,Europe,40.35,-1.117,900.0,wrdc
+thessalonikiuniv_,Greece,Europe,40.633,22.967,60.0,wrdc
+toledo,Spain,Europe,39.883,-4.033,516.0,wrdc
+toulouse_blagnac,France,Europe,43.617,1.367,151.0,wrdc
+tours,France,Europe,47.433,0.717,108.0,wrdc
+trappes,France,Europe,48.767,2.0,167.0,wrdc
+troyes_barberey,France,Europe,48.317,4.017,112.0,wrdc
+umea,Sweden,Europe,63.817,20.233,23.0,wrdc
+valence_chabeui,France,Europe,44.9,4.967,163.0,wrdc
+valencia_arpt,Spain,Europe,39.483,-0.467,57.0,wrdc
+valentia_obs_,Ireland,Europe,51.933,-10.25,14.0,wrdc
+valladolid,Spain,Europe,41.65,-4.767,734.0,wrdc
+vannes,France,Europe,47.633,-2.75,11.0,wrdc
+vaxjo_kronoberg,Sweden,Europe,56.933,14.733,182.0,wrdc
+vichy_charmeil,France,Europe,46.167,3.383,249.0,wrdc
+vigo_arpt,Spain,Europe,42.217,-8.633,255.0,wrdc
+vilanova_arousa,Spain,Europe,42.6,-8.75,15.0,wrdc
+visbyaerolog_stn,Sweden,Europe,57.667,18.35,49.0,wrdc
+vitoria,Spain,Europe,42.867,-1.667,550.0,wrdc
+waddington,United Kingdom,Europe,53.167,-0.517,73.0,wrdc
+wattisham,United Kingdom,Europe,52.117,0.967,91.0,wrdc
+wien_hohe_warte,Austria,Europe,48.25,16.35,203.0,wrdc
+zaragoza_arpt,Spain,Europe,41.667,-1.067,298.0,wrdc
+zuerich_kloten,Switzerland,Europe,47.483,8.533,436.0,wrdc
+landriano,Italy,Europe,45.32,9.27,88.0,lombardy
+gonzaga,Italy,Europe,44.96,10.77,16.0,lombardy
